@@ -3,6 +3,8 @@
 > 금융 풀스택 과정 실습 프로젝트
 > 챕터 진행하면서 점진적으로 구축한다.
 
+장별 학습 기록: [docs/STUDY-LOG.md](docs/STUDY-LOG.md)
+
 ## 시스템 구성
 
 - **Frontend**: React 18 + TypeScript
